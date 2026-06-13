@@ -3,3 +3,9 @@
 
 # Claude Code local config
 .claude/
+
+# LLC formation / legal documents (private)
+CannaSaaS-LLC/
+
+# Scraped Leafly strain images (large binary dataset, local-only)
+CS Docs/leafly-strain-images/

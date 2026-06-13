@@ -9,3 +9,8 @@ CannaSaaS-LLC/
 
 # Scraped Leafly strain images (large binary dataset, local-only)
 CS Docs/leafly-strain-images/
+CS Docs/leafly_brand_logos/
+
+# Large zip archives (exceed GitHub 100MB limit)
+CS Docs/leafly-strain-images.zip
+CS Docs/leafly_brand_logos.zip

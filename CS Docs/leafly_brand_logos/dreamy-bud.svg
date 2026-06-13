@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 84.4 84.4">
+  <defs>
+    <style>.cls-1{fill:#fff;stroke-miterlimit:10;}.cls-1,.cls-2,.cls-3{stroke:#e8e4e1;}.cls-2{fill:none;}.cls-2,.cls-3{stroke-linecap:round;stroke-linejoin:round;}.cls-3{fill:#e8e4e1;}</style>
+  </defs>
+  <title>Asset 1</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="icons">
+      <circle class="cls-1" cx="42.2" cy="42.2" r="41.7"/>
+      <line class="cls-2" x1="19.85" y1="23.55" x2="19.85" y2="77.05"/>
+      <path class="cls-3" d="M69.85,25.55h-46v30h46L60,40.55ZM49,48.41l-5.72-2.91-5.81,2.91,1.45-6.29L34,37.76l6.29-1,2.91-5.33,2.91,5.33,6.29,1-4.84,4.36Z"/>
+    </g>
+  </g>
+</svg>

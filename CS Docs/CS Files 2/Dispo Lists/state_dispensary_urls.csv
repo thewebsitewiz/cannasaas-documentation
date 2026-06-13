@@ -1,0 +1,41 @@
+State,Abbrev,Est. Dispensaries,Official Dispensary List URL,Data Format,Notes
+Alaska,AK,100+,https://www.prior.prior.prior/PRIOR/commerce.alaska.gov/web/amco/marijuana-license-search,Web search portal,"AMCO license lookup — filter by ""Retail Marijuana Store"""
+Arizona,AZ,1200+,https://azcarecheck.azdhs.gov/s/,Web search portal,ADHS dispensary verification — searchable by name/city
+Arkansas,AR,38,https://www.healthy.arkansas.gov/programs-services/topics/medical-marijuana-dispensary-information,PDF/Web list,Medical only — small market
+California,CA,3600+,https://search.cannabis.ca.gov/,Web search portal,"DCC unified license search — filter by Retailer. ~3600 active retail licenses. Largest US market"
+Colorado,CO,1100+,https://med.colorado.gov/licensee-information-and-lookup-tool/licensed-facilities,Web search + Excel download,"MED lookup tool — filter by Retail Marijuana Store or Medical Marijuana Center. Has Excel export"
+Connecticut,CT,72,https://data.ct.gov/api/views/42yd-3x3d/rows.csv?accessType=DOWNLOAD,CSV direct download,ALREADY SCRAPED — Socrata open data API. Clean CSV with all fields.
+Delaware,DE,15+,https://dhss.delaware.gov/dhss/dph/hsp/medmarhome.html,Web page,Small market — compassion centers listed on page
+District of Columbia,DC,20+,https://abca.dc.gov/page/medical-marijuana-dispensaries,Web page,Small market — list on ABCA page
+Florida,FL,500+,https://knowthefactsmmj.com/registry/,Web search portal,"Medical only — large patient base. MMTC (Medical Marijuana Treatment Center) registry"
+Hawaii,HI,35,https://health.hawaii.gov/medicalcannabis/dispensaries/,Web page list,Small market — dispensary list on state health dept page
+Illinois,IL,230+,https://www.idfpr.com/LicenseLookUp/AdultCannLicenses.asp,Web search portal,"IDFPR license lookup — filter by Adult Use Cannabis Dispensing Organization. Also has medical"
+Kentucky,KY,TBD,https://cannabis.ky.gov/Pages/index.aspx,Web portal,"Medical launching 2025 — limited dispensaries so far. Check ""Licensed Businesses"" section"
+Louisiana,LA,9,https://ldh.la.gov/page/medicinalmarijuana,Web page,"Only 9 licensed pharmacy dispensaries — listed directly on LDH page"
+Maine,ME,200+,https://www.maine.gov/dafs/ocp/open-data/adult-use,Web portal + downloadable data,"OCP open data — adult use licensee data available. Also medical at /medical-use"
+Maryland,MD,200+,https://mmcc.maryland.gov/pages/dispensaries.aspx,Web page list,"MMCC dispensary list — includes both medical and adult-use locations"
+Massachusetts,MA,350+,https://masscannabiscontrol.com/open-data/,CSV/Excel download,"CCC open data page — downloadable licensee datasets. Excellent data quality"
+Michigan,MI,1000+,https://michigan.gov/cra/find-a-licensee,Web search portal,"CRA license lookup — filter by Retailer. Large market, many independent operators"
+Minnesota,MN,50+,https://mn.gov/ocm/businesses/find-a-cannabis-business/,Web search portal,OCM business finder — recreational launched 2025
+Mississippi,MS,40+,https://msdh.ms.gov/page/30,100,435,862.html,Web page,Medical only — dispensary info on MSDH site
+Missouri,MO,400+,https://health.mo.gov/safety/cannabis/licensed-facilities.php,Web page + downloadable list,"DHSS licensed facilities — comprehensive list. Has both medical and adult-use"
+Montana,MT,450+,https://mtrevenue.gov/cannabis/,Web portal,Revenue dept cannabis portal — licensee lookup available
+Nevada,NV,200+,https://ccb.nv.gov/find-dispensaries/,Web page list,CCB dispensary finder — list of licensed retail stores
+New Hampshire,NH,10+,https://www.dhhs.nh.gov/programs-services/medicinal-use-cannabis/alternative-treatment-centers,Web page,"Small market — ATCs listed directly on DHHS page. Limited recreational"
+New Jersey,NJ,344,https://www.nj.gov/cannabis/businesses/permitted/,HTML table,ALREADY SCRAPED — medicinal + personal-use permitted businesses
+New Mexico,NM,500+,https://www.rld.nm.gov/cannabis/cannabis-license-search/,Web search portal,RLD cannabis license search — filter by Retail
+New York,NY,606,https://cannabis.ny.gov/dispensary-location-verification,HTML table,ALREADY SCRAPED — full dispensary list with addresses and websites
+North Carolina,NC,TBD,https://www.ncdhhs.gov/divisions/office-chief-medical-examiner/medical-cannabis,Web page,"Recently passed — not yet operational as of early 2026"
+North Dakota,ND,8,https://www.ndhealth.gov/MM/,Web page,Very small medical program — 8 dispensaries
+Ohio,OH,150+,https://cannabis.ohio.gov/resources/dispensary-locations,Web page list,"Division of Cannabis Control — dispensary location list"
+Oklahoma,OK,2800+,https://oklahoma.gov/omma/businesses/find-a-business.html,Web search portal,"OMMA business finder — MASSIVE market. Most dispensaries per capita in US. Searchable/filterable"
+Oregon,OR,700+,https://www.oregon.gov/olcc/cannabis/pages/licensee-data.aspx,CSV/Excel download,"OLCC licensee data — DOWNLOADABLE CSV/Excel. Filter by Retailer. Excellent data"
+Pennsylvania,PA,180+,https://www.health.pa.gov/topics/programs/Medical%20Marijuana/Pages/Dispensaries.aspx,Web page list,"DOH medical program — dispensary list with addresses. Medical only"
+Rhode Island,RI,40+,https://dbr.ri.gov/cannabis-control-commission/licensed-businesses,Web page list,CCC licensed business list
+South Dakota,SD,30+,https://doh.sd.gov/cannabis/,Web page,Medical only — dispensary info on DOH site
+Texas,TX,3,https://www.dshs.texas.gov/texas-compassionate-use-act,Web page,"Extremely limited — only 3 licensed CURT dispensaries"
+Utah,UT,15,https://medicalcannabis.utah.gov/pharmacy/,Web page list,Medical pharmacies only — 15 locations listed on page
+Vermont,VT,40+,https://ccb.vermont.gov/licensed-businesses,Web page list,CCB licensed business list — includes retailers
+Virginia,VA,50+,https://www.cannabis.virginia.gov/licensed-businesses,Web portal,"CCA licensed businesses — limited retail so far"
+Washington,WA,600+,https://lcb.wa.gov/records/frequently-requested-lists,Excel download,"WSLCB — Cannabis License Applicants Excel file downloadable. BEST STATE DATA SOURCE. Filter by active retail"
+West Virginia,WV,10+,https://dhhr.wv.gov/bph/Pages/Medical-Cannabis.aspx,Web page,Small medical program

@@ -1,0 +1,14 @@
+{
+  "name": "ohio-dispensary-scraper",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Scrapes Ohio DCC cannabis dispensary map data to CSV",
+  "main": "scrape-dispensaries.mjs",
+  "scripts": {
+    "start": "node scrape-dispensaries.mjs",
+    "direct": "node direct-query.mjs"
+  },
+  "dependencies": {
+    "puppeteer": "^23.0.0"
+  }
+}
